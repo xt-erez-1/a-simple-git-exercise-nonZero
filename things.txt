@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: Ramen
+I like to hear: Ehud Banai
+My hobbies are Time travelling, eating ramen, running.
 
-I would like to travel to <XXXX>.
+I would like to travel to Nazareth.
 
-"<XXXX Your favorite quote goes here>".
+"If you don't eat your meat you won't get any pudding!" -- pink floyd.
